@@ -1,0 +1,10 @@
+# IDEs
+.idea/
+*.iml
+.vscode/
+.vs/
+
+# Others
+*.ps1
+*.nb
+*.m
